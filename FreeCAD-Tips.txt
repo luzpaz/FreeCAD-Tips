@@ -1,0 +1,17 @@
+Did you know you can use Tools → Dependency graph... to view dependencies between objects in the active document as a graph? As opposed to the Model tree, objects are listed in reverse chronological order, with the first created object at the bottom. Dependency Graphs can be used to correct seemingly broken models (Note: you must have Graphviz installed. See https://www.freecadweb.org/wiki/Std_DependencyGraph for further info. 
+
+Did you know that if a python file changes in order for FreeCAD to see those changes an explicit reload() invoked via the python console can be used instead of needing to restart FreeCAD. (Ref: https://forum.freecadweb.org/viewtopic.php?f=18&t=24878&start=40#p195762)
+
+Did you know FreeCAD has a vibrant online community. If you have any specific questions, please visit, search, and participate in the forums (https://forum.freecadweb.org). 
+
+FreeCAD has a robust Add-on library. Starting from version 0.17 you can easily access the Addon manager via Tools → Addon manager menu. 
+
+Use Alt+F11 or View → Fullscreen to enable FreeCAD's 'Fullscreen' mode and get more visual room. 
+
+It's possible to import and export files via the python console. Furthermore, this also includes different file formats, for example: OBJ, STP, OFF, PLY and more...  Ref: https://forum.freecadweb.org/viewtopic.php?t=7321#p59270
+
+If you happen to find any bugs or have feature request ideas, please first read https://freecadweb.org/wiki/Tracker before you submit them. 
+
+Did you know FreeCAD has different mouse navigational styles. Are you used to Blender, Inventor, Maya, Revit etc...? Checkout  https://freecadweb.org/wiki/Mouse_Model
+
+FreeCAD has an automatic backup mechanism. @unfinished
