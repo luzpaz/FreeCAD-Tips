@@ -1,4 +1,4 @@
-Did you know you can use Tools → Dependency graph... to view dependencies between objects in the active document as a graph? As opposed to the Model tree, objects are listed in reverse chronological order, with the first created object at the bottom. Dependency Graphs can be used to correct seemingly broken models (Note: you must have Graphviz installed. See https://www.freecadweb.org/wiki/Std_DependencyGraph for further info. 
+Did you know you can use Tools → Dependency graph... to view dependencies between objects in the active document as a graph? As opposed to the Model tree, objects are listed in reverse chronological order, with the first created object at the bottom. Dependency Graphs can be used to correct seemingly broken models (Note: you must have Graphviz installed. See https://www.freecadweb.org/wiki/Dependency_Graph for further info. 
 
 Did you know that if a python file changes in order for FreeCAD to see those changes an explicit reload() invoked via the python console can be used instead of needing to restart FreeCAD. (Ref: https://forum.freecadweb.org/viewtopic.php?f=18&t=24878&start=40#p195762)
 
@@ -17,3 +17,4 @@ Did you know FreeCAD has different mouse navigational styles. Are you used to Bl
 Do you know that the Polyline Tool has different continuation modes? Start with a straight line, then hit the m-key and see the next edge connected straight or rectangular or even as an arc. See https://www.freecadweb.org/wiki/Sketcher_PolylineDo you know that the Polyline Tool has different continuation modes? Start with a straight line, then hit the m-key and see the next edge connected straight or rectangular or even as an arc. See https://www.freecadweb.org/wiki/Sketcher_Polyline
 
 FreeCAD has an automatic backup mechanism. @unfinished
+
