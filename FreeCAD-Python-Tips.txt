@@ -1,0 +1,1 @@
+When adding a property you can mark it as output property. This way it won't mark the feature as touched when changing it. Ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=24928&p=196429#p195675
