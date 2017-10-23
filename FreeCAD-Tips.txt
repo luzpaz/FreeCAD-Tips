@@ -14,4 +14,6 @@ If you happen to find any bugs or have feature request ideas, please first read 
 
 Did you know FreeCAD has different mouse navigational styles. Are you used to Blender, Inventor, Maya, Revit etc...? Checkout  https://freecadweb.org/wiki/Mouse_Model
 
+Do you know that the Polyline Tool has different continuation modes? Start with a straight line, then hit the m-key and see the next edge connected straight or rectangular or even as an arc. See https://www.freecadweb.org/wiki/Sketcher_PolylineDo you know that the Polyline Tool has different continuation modes? Start with a straight line, then hit the m-key and see the next edge connected straight or rectangular or even as an arc. See https://www.freecadweb.org/wiki/Sketcher_Polyline
+
 FreeCAD has an automatic backup mechanism. @unfinished
