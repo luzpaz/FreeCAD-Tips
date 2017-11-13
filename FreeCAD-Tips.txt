@@ -20,3 +20,4 @@ Is FreeCAD translated in to your native language? Do you want to correct what yo
 
 FreeCAD has an automatic backup mechanism. @unfinished
 
+How to completely reset FreeCAD https://forum.freecadweb.org/viewtopic.php?f=4&t=24915&p=199203#p195560
