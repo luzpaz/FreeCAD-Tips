@@ -20,4 +20,6 @@ Is FreeCAD translated in to your native language? Do you want to correct what yo
 
 FreeCAD has an automatic backup mechanism. @unfinished
 
-How to completely reset FreeCAD https://forum.freecadweb.org/viewtopic.php?f=4&t=24915&p=199203#p195560
+How to completely reset FreeCAD https://forum.freecadweb.org/viewtopic.php?f=4&t=24915&p=199203#p195560 @unfinished
+
+In the Part Workbench there is menu entry and an icon for Check Geometry. You get additional checks if you enable <wiki>BOPCheck</wiki>. @unfinished
