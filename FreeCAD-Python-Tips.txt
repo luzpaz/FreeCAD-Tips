@@ -1,1 +1,7 @@
 When adding a property you can mark it as output property. This way it won't mark the feature as touched when changing it. Ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=24928&p=196429#p195675
+
+Run a BOP check AKA check the geometry using the Python API see https://forum.freecadweb.org/viewtopic.php?t=22378
+
+https://forum.freecadweb.org/viewtopic.php?f=23&t=25499&p=202926#p202926
+
+https://forum.freecadweb.org/viewtopic.php?f=23&t=10139&p=202920#p202920
