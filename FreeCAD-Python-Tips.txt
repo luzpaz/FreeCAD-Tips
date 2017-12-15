@@ -5,3 +5,11 @@ Run a BOP check AKA check the geometry using the Python API see https://forum.fr
 https://forum.freecadweb.org/viewtopic.php?f=23&t=25499&p=202926#p202926
 
 https://forum.freecadweb.org/viewtopic.php?f=23&t=10139&p=202920#p202920
+
+Flushing report view output during run time? Run the following: (ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=25864)
+> import FreeCADGui
+> 
+> for myValue in range (0,10,1):
+>     print myValue
+>     FreeCADGui.updateGui()
+>     # do the lengthy stuff here
