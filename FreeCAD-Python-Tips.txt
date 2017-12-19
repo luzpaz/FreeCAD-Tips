@@ -13,3 +13,5 @@ Flushing report view output during run time? Run the following: (ref: https://fo
 >     print myValue
 >     FreeCADGui.updateGui()
 >     # do the lengthy stuff here
+
+Choosing Solver from the Python console (ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=24942)
