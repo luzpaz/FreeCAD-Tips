@@ -17,3 +17,5 @@ Flushing report view output during run time? Run the following: (ref: https://fo
 Choosing Solver from the Python console (ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=24942)
 
 How to load a .csv in to FreeCAD (ref: https://forum.freecadweb.org/viewtopic.php?f=3&t=30069&p=247905#p247899)
+
+How to intersect bsplinesurface and line (ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=31043)
