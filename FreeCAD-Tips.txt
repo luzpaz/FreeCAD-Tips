@@ -30,3 +30,7 @@ Interesting git tip: If you want to know what current revision FreeCAD is in typ
 
 How do I make the grid disappear and re-appear on command?
 Add the "Draft_ToggleGrid" command to your toolbar.
+
+Run FreeCAD headless/GUI-less from the CLI ?
+FreeCAD comes bundled with FreeCADcmd
+(AppImage) `path/to/FreeCAD.AppImage -c`
