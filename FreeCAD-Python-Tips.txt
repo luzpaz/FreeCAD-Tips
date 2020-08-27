@@ -38,3 +38,5 @@ How to locate the your system's default FreeCAD Macro folder? (ref: https://foru
 > path_to_ui = p.GetString("MacroPath")
 
 Using Python to automagically copy the FreeCAD "About" dialog to the clipboard: (ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=23976#p187448)
+
+Calculate the distance between a FreeCAD point and a FreeCAD 3D object: (ref: https://forum.freecadweb.org/viewtopic.php?f=22&t=49775)
